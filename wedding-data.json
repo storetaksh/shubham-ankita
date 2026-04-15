@@ -1,0 +1,62 @@
+{
+    "couple": {
+        "groom": {
+            "name": "Shubham Kanire",
+            "parents": {
+                "mother": "Mamta Kanire",
+                "father": "Vilas Kanire"
+            }
+        },
+        "bride": {
+            "name": "Ankita Chapekar",
+            "parents": {
+                "mother": "Vandana Chapekar",
+                "father": "Gajanan Chapekar"
+            }
+        },
+        "hashtag": "#ShubhamKiAnkita"
+    },
+    "wedding": {
+        "date": "2026-04-27T19:00:00",
+        "displayDate": "APRIL 27th, 2026"
+    },
+    "celebrations": [
+        {
+            "name": "Vivah",
+            "date": "April 26, 2026",
+            "time": "10:00 AM",
+            "venue": "Shree Dutta Sabhaghruha, Zingabai Takli, Godhani Road, Nagpur",
+            "googleMapsUrl": "https://www.google.co.in/maps/place/Shree+Dutta+Sabhaghruha/@21.1985484,79.0659081,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd4c176ee7e51a9:0xc16c9bd5d0b1bd9!8m2!3d21.1985484!4d79.068483!16s%2Fg%2F11s7zrf1wr?entry=tts&g_ep=EgoyMDI2MDQwMS4wIPu8ASoASAFQAw%3D%3D&skid=37e59fbd-030a-4b92-af94-17d20e0f216f",
+            "showLocation": true,
+            "mapImage": "assets/images/map.jpeg",
+            "dressCode": "Occasion Ready",
+            "highlight": true,
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shubham+%26+Ankita+-+Vivah&dates=20260426T100000/20260426T140000&details=Wedding+Ceremony&location=Shree+Dutta+Sabhaghruha,+Nagpur&ctz=Asia/Kolkata"
+        },
+        {
+            "name": "Reception",
+            "date": "April 27, 2026",
+            "time": "7:00 PM",
+            "venue": "Vandan Lawn, Pipla Road, Besa Road, Nagpur",
+            "googleMapsUrl": "https://www.google.co.in/maps/place/Shahu's+Vandan+Lawn/@21.0848241,79.0941876,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd4bf0e02236edd:0x7fcd36aa06d87201!8m2!3d21.0848241!4d79.0967625!16s%2Fg%2F11ns9q30cq?entry=tts&g_ep=EgoyMDI2MDQwMS4wIPu8ASoASAFQAw%3D%3D&skid=beabb947-bc47-4ebe-958f-fa74d70f5802",
+            "showLocation": true,
+            "dressCode": "Occasion Ready",
+            "highlight": false,
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shubham+%26+Ankita+-+Reception&dates=20260427T190000/20260427T230000&details=Wedding+Reception&location=Vandan+Lawn,+Nagpur&ctz=Asia/Kolkata"
+        }
+    ],
+    "contact": {
+        "whatsapp": "917972285792",
+        "instagram": ""
+    },
+    "messages": {
+        "inviteText": "With immense joy and heartfelt happiness, we, as a family, request the honor of your presence at the wedding of Shubham and Ankita. As they begin a beautiful journey of love and togetherness, we would be delighted to have you join us in celebrating this special occasion and blessing the couple for a lifetime of happiness.",
+        "thankYou": "Ready. Set. Glow! Thank you for being part of our 'Happily Ever After.'",
+        "coupleQuote": "He found his forever, She found her home!"
+    },
+    "music": {
+        "url": "assets/music/music.mp3",
+        "autoplay": true
+    },
+    "websiteUrl": "https://shubhamwedsankita.netlify.app/"
+}
