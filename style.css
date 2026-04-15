@@ -26,9 +26,9 @@
   --font-heading: "Bellefair", serif;
   --font-script: "Great Vibes", cursive;
   --font-body: "Lancelot", sans-serif;
-  --section-height: 100svh;
+  --section-height: 135svh;
   --section-height-md: 145svh;
-  --section-height-lg: 130svh;
+  --section-height-lg: 155svh;
 }
 
 * {
