@@ -26,7 +26,7 @@
   --font-heading: "Bellefair", serif;
   --font-script: "Great Vibes", cursive;
   --font-body: "Lancelot", sans-serif;
-  --section-height: 135svh;
+  --section-height: 125svh;
   --section-height-md: 145svh;
   --section-height-lg: 155svh;
 }
@@ -1028,9 +1028,18 @@ a.btn-primary {
     margin-top: 7vh;
   }
 
+  .pre-title {
+    font-size: 0.8rem;
+  }
+
+
   .groom-name,
   .bride-name {
     font-size: 2.5rem;
+  }
+
+  .weds-text {
+    font-size: 1.5rem;
   }
 
   .section-title {
@@ -1074,9 +1083,17 @@ a.btn-primary {
     min-height: var(--section-height-lg);
   }
 
+  .pre-title {
+    font-size: 0.6rem;
+  }
+
   .groom-name,
   .bride-name {
-    font-size: 2rem;
+    font-size: 1.8rem;
+  }
+
+  .weds-text {
+    font-size: 1.2rem;
   }
 
   .section-title {
